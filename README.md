@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Unuofin Ezekiel 👋
+### Cybersecurity & Technical Infrastructure Specialist
 
-<!--
-**ezebabs-tech/ezebabs-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my security portfolio. Below are my featured enterprise lab implementations:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ Featured Security Projects
+
+* **[Active Directory Enterprise Hardening & Security Audit](https://github.com/ezebabs-tech/Active-Directory-Hardening-Lab.git)**  
+  *Enterprise AD DS security deployment on Windows Server 2022 featuring 3-tier RBAC, GPO account lockout policies, LLMNR/NBT-NS mitigations, and Event ID 4625 telemetry auditing.*
+
+* **[Wireshark Network Traffic Analysis & Forensic Audit](https://github.com/ezebabs-tech/Natureforce-Incident-Report.git)**  
+  *Deep-packet inspection and protocol analysis isolating LDAP, NBNS, and Kerberos transaction traffic to identify credential exposure and anomalous network activity.*
+
+---
+
+📫 **Contact:** [Ezekielunuofin@gmail.com / https://www.linkedin.com/in/ezekiel-unuofin-0382161a1]
