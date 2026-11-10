@@ -15,4 +15,4 @@ Welcome to my security portfolio. Below are my featured enterprise lab implement
 
 ---
 
-📫 **Contact:** [Ezekielunuofin@gmail.com / https://www.linkedin.com/in/ezekiel-unuofin-0382161a1]
+📫 **Contact:** [Email Me](mailto:Ezekielunuofin@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/ezekiel-unuofin-0382161a1)
